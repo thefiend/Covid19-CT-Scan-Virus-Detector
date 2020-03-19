@@ -1,1 +1,1 @@
-# Covid19-CT-Scan-Virus-Detector-
+# Covid19-CT-Scan-Virus-Detector
